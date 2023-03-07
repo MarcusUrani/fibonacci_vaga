@@ -1,6 +1,6 @@
 # Sequência de Fibonacci
 
-Projeto desenvolvido para o processo seletivo da Tartet Sistemas.
+Projeto desenvolvido para o processo seletivo da Target Sistemas.
 
 ## Tecnologias utilizadas 👨🏽‍💻
 
