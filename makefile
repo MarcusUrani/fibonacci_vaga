@@ -12,7 +12,7 @@ bin/main: $(OBJ)
 	$(CC) $(CFLAGS) $(OBJ) -o $@
 
 binfolder: 
-	mkdir -p $(BINDIR)
+	mkdir -p $(BINDIR);
 
 objfolder:
 	mkdir -p $(OBJDIR)
