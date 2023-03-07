@@ -6,7 +6,7 @@ int main(void) {
   fib[0] = 0;
   fib[1] = 1;
   scanf("%d", &n);
-  for (i = 2; i <= 46; i++) {
+  for (i = 2; i <= 46; i++) 
     fib[i] = fib[i - 1] + fib[i - 2];
     if (n == fib[i]) {
       k = 1;
