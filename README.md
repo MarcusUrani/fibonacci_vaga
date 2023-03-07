@@ -15,7 +15,7 @@ Projeto desenvolvido para o processo seletivo da Target Sistemas.
 
  - Após isso, digite "make run" no mesmo console e digite o número que deseja verificar se pertence a sequência de fibonacci.
 
- - No console aperecerá o resultado.
+ - No console aparecerá o resultado.
 
 ## Autor 🙋🏻‍♂️
 
