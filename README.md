@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o teste do processo seletivo da Target Sistemas.
 
-## Tecnologias utilizadas 🏽🚀
+## Tecnologias utilizadas 🚀
 
  - C
  - GitHub
