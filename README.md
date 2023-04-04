@@ -1,13 +1,15 @@
 # Sequência de Fibonacci
 
-Projeto desenvolvido para o processo seletivo da Target Sistemas.
+Projeto desenvolvido para o teste do processo seletivo da Target Sistemas.
 
-## Tecnologias utilizadas 👨🏽‍💻
+## Tecnologias utilizadas 🚀
 
  - C
  - GitHub
+ - Visual Studio Code
+ - Replit
 
-## Como usar o projeto?
+## Como usar o projeto? 👨🏽‍💻
 
  - Acesse a plataforma Replit, por meio desse [link](https://replit.com/join/oflidpqfsu-marcusurani).
 
